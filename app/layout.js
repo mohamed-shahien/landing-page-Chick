@@ -1,10 +1,12 @@
 import '../styles/globals.css';
-import { IBM_Plex_Sans_Arabic } from 'next/font/google';
+import { ibmPlexSansArabic } from 'next/font/google';
 
-const ibmPlexSansArabic = IBM_Plex_Sans_Arabic({ 
-  subsets: ['arabic'], 
-  weight: ['100', '200', '300', '400', '500', '600', '700']
+const ibmPlexSans = ibmPlexSansArabic({
+  subsets: ['arabic'],
+  weight: ['100', '200', '300', '400', '500', '600', '700'],
+  display: 'swap',
 });
+
 const RootLayout = ({ children }) => (
   <html lang="en">
     <head>
@@ -22,7 +24,7 @@ const RootLayout = ({ children }) => (
         href="https://stijndv.com/fonts/Eudoxus-Sans.css"
       />
     </head>
-    <body className={ibmPlexSansArabic.className}>{children}</body>
+    <body className={ibmPlexSans.className}>{children}</body>
   </html>
 );
 
