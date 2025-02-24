@@ -27,44 +27,44 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading precaution to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'نوفر لك خاصية صور المنتجات ثلاثية الابعاد لاول مره.',
+  'وضع صور او فيديو كخلفية للثيم في جميع الصفحات',
+  'عرض فيديوهات للمنتجات بطرق مميزه و مختلفه.',
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'صفحة تحميل محسنة',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'تم تحسين صفحة التحميل لتكون أسرع وأكثر توافقًا، مما يعزز الاستجابة ومعدلات التحويل.',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'تمرير سلس وأنيق',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'يقدم Theme Chic تصميمًا احترافيًا سلسًا يجعل متجرك أكثر جاذبية وسهولة في الاستخدام.',
   },
 ];
 
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse and be happy :)',
+    title: 'دعم كامل لتقنية 3D',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'يتيح لك Theme Chic عرض المنتجات والعناصر ثلاثية الأبعاد، مما يعزز تجربة المستخدم ويجعل المتجر أكثر تفاعلية وجاذبية.',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: 'انيميشن احترافي مع تمرير سلس',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'يتميز الثيم بحركات ورسوم متحركة ديناميكية تتفاعل مع التمرير، مما يوفر تجربة تصفح انسيابية وحديثة للعملاء.',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'مصمم خصيصًا للمتاجر الكبيرة',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'يأتي بتصميم قوي يناسب المتاجر الكبيرة التي تحتاج إلى عرض عدد كبير من المنتجات بطريقة منظمة وأنيقة دون التأثير على الأداء.',
   },
 ];
 

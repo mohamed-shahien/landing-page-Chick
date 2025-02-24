@@ -14,11 +14,11 @@ const World = () => (
       viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto flex flex-col`}
     >
-      <TypingText title="| People on the World" textStyles="text-center" />
+      <TypingText title="عدد الأشخاص في العالم" textStyles="text-center" />
       <TitleText
         title={(
           <>
-            Track friends around you and invite them to play together in the same world
+            يُستخدم Theme Chic في العديد من المتاجر الإلكترونية داخل السعودية، مما يجعله الخيار الأمثل لتجربة مستخدم سلسة ومتطورة.
           </>
         )}
         textStyles="text-center"
