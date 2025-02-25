@@ -70,18 +70,29 @@ export const insights = [
 
 export const socials = [
   {
-    name: 'twitter',
-    url: '/twitter.svg',
-    link: 'https://twitter.com/VigneshGupta9',
-  },
-  {
-    name: 'linkedin',
-    url: '/linkedin.svg',
-    link: 'https://www.linkedin.com/in/vigneshgupta/',
-  },
-  {
-    name: 'instagram',
+    name: 'Instagram',
     url: '/instagram.svg',
-    link: 'https://www.instagram.com/_viggi.g_/',
+    link: 'https://www.instagram.com/chic_theme',
+  },
+  {
+    name: 'TikTok',
+    url: '/tiktok.svg',
+    link: 'https://www.tiktok.com/@chictheme',
+  },
+  {
+    name: 'Email',
+    url: '/email.svg',
+    link: 'mailto:chictheme@zohomail.sa',
+  },
+  {
+    name: 'WhatsApp',
+    url: '/whatsapp.svg',
+    link: 'https://wa.me/+966568627527',
+  },
+  {
+    name: 'Call',
+    url: '/call.svg',
+    link: 'tel:+966568627527',
   },
 ];
+

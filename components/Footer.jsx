@@ -19,17 +19,31 @@ const Footer = () => (
         <h4 className="font-bold md:text-[64px] text-[44px] text-white">
           احصل علي الثيم من هنا
         </h4>
-        <button
-          type="button"
-          className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]"
-        >
-          <img
-            src="/headset.svg"
-            alt="headset"
-            className="w-[24px] h-[24px] object-contain"
-          />
-          <span className="font-normal text-[16px] text-white">احصل الان</span>
-        </button>
+        <div className="flex items-center justify-center gap-3">
+          <a
+            href="https://2u.pw/FZJZjB4L"
+            className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px] text-white no-underline"
+          >
+            <img
+              src="/headset.svg"
+              alt="headset"
+              className="w-[24px] h-[24px] object-contain"
+            />
+            <span className="font-normal text-[16px]">احصل الآن</span>
+          </a>
+
+          <a
+            href="https://2u.pw/FZJZjB4L"
+            className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px] text-white no-underline"
+          >
+            <img
+              src="/documentation.png"
+              alt="documentation"
+              className="w-[24px] h-[24px] object-contain"
+            />
+            <span className="font-normal text-[16px]">ملف المساعدة</span>
+          </a>
+        </div>
       </div>
 
       <div className="flex flex-col">
