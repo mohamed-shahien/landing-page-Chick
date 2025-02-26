@@ -8,7 +8,7 @@ const ibmFont = ibmPlexSansArabic({
 });
 
 const RootLayout = ({ children }) => (
-  <html lang="en">
+  <html lang="ar">
     <head>
       <link
         rel="preconnect"

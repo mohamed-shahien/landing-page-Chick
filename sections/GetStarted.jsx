@@ -24,7 +24,7 @@ const GetStarted = () => (
       </motion.div>
       <motion.div
         variants={fadeIn('left', 'tween', 0.2, 1)}
-        className="flex-[0.75] flex justify-center flex-col"
+        className="flex-[0.75] flex justify-center flex-col items-end"
       >
         <TypingText title="اضف المزيد من التفاصيل" />
         <TitleText title={<>مميزات ثيم شيك</>} />
