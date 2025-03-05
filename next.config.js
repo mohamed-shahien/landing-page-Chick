@@ -2,12 +2,8 @@
 const nextConfig = {
   experimental: {},
   reactStrictMode: true,
-  webpack(config) {
-    config.optimization = {
-      minimize: false,
-    };
-    return config;
-  },
+  swcMinify: true,
+  unoptimized: true,
 };
 
 module.exports = nextConfig;
