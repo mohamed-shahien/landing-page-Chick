@@ -1,12 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  experimental: {},
-  reactStrictMode: true,
-  webpack(config) {
-    config.optimization = {
-      minimize: false,
-    };
-    return config;
+  reactStrictMode: true, // تفعيل Strict Mode
+  output: 'export', // الإعداد الجديد لعمل Export
+  images: {
+    unoptimized: true, // دعم الصور في Static Export
   },
 };
 
