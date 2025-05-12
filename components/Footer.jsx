@@ -21,7 +21,7 @@ const Footer = () => (
         </h4>
         <div className="flex items-center justify-center gap-3">
           <a
-            href="https://2u.pw/FZJZjB4L"
+            href="https://s.salla.sa/marketplace/themes/1723503526"
             className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px] text-white no-underline"
           >
             <img

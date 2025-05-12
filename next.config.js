@@ -1,10 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true, // تفعيل Strict Mode
-  output: 'export', // الإعداد الجديد لعمل Export
+  reactStrictMode: true,
+  swcMinify: true,
   images: {
-    unoptimized: true, // دعم الصور في Static Export
+    unoptimized: true,
   },
+  output: 'export',
 };
 
 module.exports = nextConfig;
