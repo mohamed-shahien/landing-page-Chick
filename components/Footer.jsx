@@ -33,7 +33,7 @@ const Footer = () => (
           </a>
 
           <a
-            href="https://2u.pw/FZJZjB4L"
+            href="https://www.notion.so/1a22687535c180eabe8adc77db231c30?v=1a22687535c181c08b1a000c7346d5ff"
             className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px] text-white no-underline"
           >
             <img

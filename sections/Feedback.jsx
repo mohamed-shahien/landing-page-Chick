@@ -19,11 +19,11 @@ const Feedback = () => (
       >
         <div className="feedback-gradient" />
         <div>
-          <h4 className="font-bold sm:text-[32px] text-[26px] sm:leading-[40px] leading-[36px] text-white">شركة فكرة</h4>
-          <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22px] leading-[16px] text-white">نبني المستقبل الرقمي</p>
+          <h4 className="font-bold sm:text-[32px] text-[26px] sm:leading-[40px] leading-[36px] text-white">ثيم تشيك</h4>
+          <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22px] leading-[16px] text-white">تجربة تسوق أنيقة وعصرية</p>
         </div>
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45px] leading-[39px] text-white">
-          "في شركة فكرة، نؤمن بأن الابتكار هو المفتاح لخلق مستقبل رقمي أكثر تفاعلية. الميتافيرس ليس مجرد تقنية، بل هو بيئة متكاملة تعيد تعريف أسلوب حياتنا وأعمالنا. انضم إلينا في رحلتنا لاستكشاف إمكانيات غير محدودة!"
+          "ثيم تشيك مصمم بعناية ليوفر لمتجرك مظهرًا أنيقًا وسلسًا. يجمع بين التصميم الجذاب والسرعة العالية ليمنح عملاءك تجربة تسوق فريدة من نوعها. اختر تشيك، وميز متجرك عن الجميع!"
         </p>
       </motion.div>
 
